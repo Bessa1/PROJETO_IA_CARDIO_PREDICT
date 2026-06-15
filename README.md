@@ -158,11 +158,10 @@ Esse diferencial permitiu transformar um modelo acadêmico em uma ferramenta pr�
 * scikit-learn
 * matplotlib
 * seaborn
-* streamlit
 
 ### Ferramentas
 
-* Jupyter Notebook
+* Google Collab
 * Git
 * GitHub
 
@@ -191,7 +190,7 @@ pip install -r requirements.txt
 ### 4. Execute a aplicação
 
 ```bash
-streamlit run app.py
+run app.py
 ```
 
 ---
