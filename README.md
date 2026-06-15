@@ -212,10 +212,10 @@ Alguns pontos importantes incluem:
 
 ## 👥 Integrantes
 
-* Arthur Ferreira Costa
-* Carlos Eduardo Bessa
-* Guilherme Pereira de Albuquerque
-* Rayssa Lima dos Santos
+* Arthur Ferreira Costa, 1252222116
+* Carlos Eduardo Bessa, 125221103864
+* Guilherme Pereira de Albuquerque, 12522221460
+* Rayssa Lima dos Santos, 125221110762
 
 ---
 
